@@ -167,7 +167,6 @@ Smart-Garage-Door/
 │   ├── index.php
 │   ├── app.js
 │   └── ... 
-├── wiring_diagram.png       # Optional wiring diagram
 └── README.md
 ```
 

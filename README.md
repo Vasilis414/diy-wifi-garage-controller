@@ -1,7 +1,3 @@
-# diy-wifi-garage-controller
-Universal garage door controller for microcontrollers – Pi, Arduino, ESP, and more.
----
-
 # Smart Garage Door with Raspberry Pi Zero
 
 Turn your regular garage door into a smart garage door using a **microcontroller** like the Raspberry Pi Zero. This project allows you to control your garage remotely through a web interface or app.

@@ -177,7 +177,3 @@ Smart-Garage-Door/
 * Make sure wires are properly soldered.
 * Check GPIO pin number in Python script matches your connection.
 * Ensure Flask server is running.
-
----
-
-Do you want me to do that next?

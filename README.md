@@ -111,7 +111,7 @@ crontab -e
 ## Step 4: Web App
 
 1. Copy the `GarageApp` folder to your Raspberry Pi.
-2. Set a password inside `index.php`.
+2. Set a password inside `index.php` and the device ip where the request happens.
 3. Start the PHP server:
 
 ```bash
